@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review</name>
+   <tag></tag>
+   <elementGuidId>45180348-fcba-4854-b075-7cfb210dc632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary.btn-small.js-prd-url</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9de5c959-392b-471b-948f-f60aed31e8eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary btn-small js-prd-url</value>
+      <webElementGuid>167b5cf5-29a2-424b-a3ee-a6a45ac37bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>d7539688-364a-478c-ba6c-63b203a28312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/double-door-refrigerator/9193lf-avante%2b-sapphire-purple-refrigerators</value>
+      <webElementGuid>4b949580-2cb0-4e38-aba7-2f77165376bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selector</name>
+      <type>Main</type>
+      <value>gtm-product-click</value>
+      <webElementGuid>f43d39e9-e557-4c19-a4c0-773734303124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-selector</name>
+      <type>Main</type>
+      <value>gtm-product-button-click</value>
+      <webElementGuid>22f9a537-bfae-4039-8562-43b5cd0163bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                            Review
+                    </value>
+      <webElementGuid>9c06c69b-c8b7-4822-9fee-81d7edfc34b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-main&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 productGridPage-page&quot;]/div[@class=&quot;products productgridcomponent-page&quot;]/div[@class=&quot;prd product-item&quot;]/div[@class=&quot;prd-inner&quot;]/div[@class=&quot;prd-footer&quot;]/div[@class=&quot;prd-detail&quot;]/a[@class=&quot;btn btn-outline-primary btn-small js-prd-url&quot;]</value>
+      <webElementGuid>1af0e6bf-1d06-4d6d-bf60-90c541d6d370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      <webElementGuid>308a4695-523b-448a-be23-1e6e011c3aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/double-door-refrigerator/9193lf-avante%2b-sapphire-purple-refrigerators')])[2]</value>
+      <webElementGuid>814a5281-ba2a-45eb-b836-fb3406e59257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a</value>
+      <webElementGuid>5d021229-b36e-4d5a-8468-9bb309e4f023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Review' and @href = '/double-door-refrigerator/9193lf-avante%2b-sapphire-purple-refrigerators' and (text() = '
+                        
+                            Review
+                    ' or . = '
+                        
+                            Review
+                    ')]</value>
+      <webElementGuid>60905ae8-5b54-4067-a90b-1d25edaeb7a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

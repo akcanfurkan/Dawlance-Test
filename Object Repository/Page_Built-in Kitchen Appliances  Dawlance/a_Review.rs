@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review</name>
+   <tag></tag>
+   <elementGuidId>b72ae693-ebe9-4f7c-ba4e-4ff5ce5fe0e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary.btn-small.js-prd-url</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9758e538-1c08-4eac-9db4-096e176627d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary btn-small js-prd-url</value>
+      <webElementGuid>577bb412-df99-4b90-9339-cf55e92e83a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>f761cd4e-98f4-4a37-ae78-61168ce50af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/built-in-microwave-oven/dbmo-25-ig-built-in-kitchen-appliances</value>
+      <webElementGuid>10157341-97ce-434d-8b45-00690c3d6a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selector</name>
+      <type>Main</type>
+      <value>gtm-product-click</value>
+      <webElementGuid>f3ced2be-54e5-4f95-a0db-13a93e038a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-selector</name>
+      <type>Main</type>
+      <value>gtm-product-button-click</value>
+      <webElementGuid>8ead8645-bfb3-4c08-9d46-60a910a41bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                            Review
+                    </value>
+      <webElementGuid>e2d27100-5313-4995-bf4d-377d6fa8bbbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-main&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 productGridPage-page&quot;]/div[@class=&quot;products productgridcomponent-page&quot;]/div[@class=&quot;prd product-item&quot;]/div[@class=&quot;prd-inner&quot;]/div[@class=&quot;prd-footer&quot;]/div[@class=&quot;prd-detail&quot;]/a[@class=&quot;btn btn-outline-primary btn-small js-prd-url&quot;]</value>
+      <webElementGuid>309aa22d-bcb2-41ee-8e63-e00f74ca119e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      <webElementGuid>9abed7db-d67d-4a2a-a13c-6f7b7dfd258f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/built-in-microwave-oven/dbmo-25-ig-built-in-kitchen-appliances')])[2]</value>
+      <webElementGuid>d68d246d-224f-4295-8007-5b7649f70f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a</value>
+      <webElementGuid>f0baa683-4935-4cb5-939a-b96b2bb272b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Review' and @href = '/built-in-microwave-oven/dbmo-25-ig-built-in-kitchen-appliances' and (text() = '
+                        
+                            Review
+                    ' or . = '
+                        
+                            Review
+                    ')]</value>
+      <webElementGuid>563d2ff8-5672-4121-b844-98bec000ae51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

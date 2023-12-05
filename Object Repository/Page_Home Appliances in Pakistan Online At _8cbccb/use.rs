@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>2f5f12ab-0240-433f-9417-0da477c374d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.icon.icon-arrow-b-small > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>35b63f15-2fe5-429d-9ad3-67aebd9dcdf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/_ui/shared/images/sprite-map.svg#arrow-b-small</value>
+      <webElementGuid>367d22d3-c112-4605-9470-cd6fcf5ae630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;header-top se-item&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3 col-lg-5 col-left&quot;]/button[@class=&quot;btn-menu js-ov-trg&quot;]/span[@class=&quot;d&quot;]/svg[@class=&quot;icon icon-arrow-b-small&quot;]/use[1]</value>
+      <webElementGuid>81e0706b-971a-488f-9ff6-badc7207a81f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

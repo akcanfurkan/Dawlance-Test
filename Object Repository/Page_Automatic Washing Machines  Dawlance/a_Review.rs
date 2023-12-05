@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review</name>
+   <tag></tag>
+   <elementGuidId>cc4dd8d2-84d4-4ce1-a259-8b416e99732d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary.btn-small.js-prd-url</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>36d49b9d-d62e-4e69-bbba-e48765fa922a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary btn-small js-prd-url</value>
+      <webElementGuid>4099b196-b2df-4446-8c5b-64e4e4d27e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>d330fdf5-729a-4d23-a34f-830f8e5083e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/top-load-washing-machine/dwt-1166-x-ads%2b-automatic-washing-machines</value>
+      <webElementGuid>bcdf16e2-6611-4701-91db-35e8a21af5bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selector</name>
+      <type>Main</type>
+      <value>gtm-product-click</value>
+      <webElementGuid>eabd78b5-64f0-4380-b176-0d838c03de48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-selector</name>
+      <type>Main</type>
+      <value>gtm-product-button-click</value>
+      <webElementGuid>e3cb9891-d777-471e-8143-8710893426fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                            Review
+                    </value>
+      <webElementGuid>cfb952be-951e-4dc9-b4ad-d3683009cd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-main&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 productGridPage-page&quot;]/div[@class=&quot;products productgridcomponent-page&quot;]/div[@class=&quot;prd product-item&quot;]/div[@class=&quot;prd-inner&quot;]/div[@class=&quot;prd-footer&quot;]/div[@class=&quot;prd-detail&quot;]/a[@class=&quot;btn btn-outline-primary btn-small js-prd-url&quot;]</value>
+      <webElementGuid>a665c346-f298-4035-8bca-4bbbb19fa6b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      <webElementGuid>39e0e69c-a277-4594-bb28-b7ee352aa9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/top-load-washing-machine/dwt-1166-x-ads%2b-automatic-washing-machines')])[2]</value>
+      <webElementGuid>480047e6-8987-487d-9d2f-14ae80768998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a</value>
+      <webElementGuid>58c65cca-4e89-4a37-b50a-5acc32ccd5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Review' and @href = '/top-load-washing-machine/dwt-1166-x-ads%2b-automatic-washing-machines' and (text() = '
+                        
+                            Review
+                    ' or . = '
+                        
+                            Review
+                    ')]</value>
+      <webElementGuid>9b385ea0-216e-43fe-8b48-5c01c76014b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

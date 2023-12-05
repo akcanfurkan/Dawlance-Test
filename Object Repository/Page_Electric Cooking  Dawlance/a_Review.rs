@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review</name>
+   <tag></tag>
+   <elementGuidId>3dc75cb3-eb45-45c1-ba7e-2ebe36c30fef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='prd-detail']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-primary.btn-small.js-prd-url</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2aead942-c472-4aea-85f4-e87aae170a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary btn-small js-prd-url</value>
+      <webElementGuid>a805ed03-3187-412c-a7c5-fc4c830eb6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>969c1be3-45f9-449c-a409-b4608a07c6fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/air-fryer/dwaf-3013-electric-cooking</value>
+      <webElementGuid>0c9884b4-2f7e-4821-995c-8b919b9d16ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selector</name>
+      <type>Main</type>
+      <value>gtm-product-click</value>
+      <webElementGuid>2f5c4f51-e7e9-4b22-9aec-17b1c1765e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-selector</name>
+      <type>Main</type>
+      <value>gtm-product-button-click</value>
+      <webElementGuid>d9afde12-7ef6-482c-939e-ee45dc1bf894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                            Review
+                    </value>
+      <webElementGuid>2341ddf0-7799-422a-83a3-d3e2f229aefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-main&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 productGridPage-page&quot;]/div[@class=&quot;products productgridcomponent-page&quot;]/div[@class=&quot;prd product-item&quot;]/div[@class=&quot;prd-inner&quot;]/div[@class=&quot;prd-footer&quot;]/div[@class=&quot;prd-detail&quot;]/a[@class=&quot;btn btn-outline-primary btn-small js-prd-url&quot;]</value>
+      <webElementGuid>92c373ef-53ab-4183-bb71-a654e1698a23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='site-main']/div/div/div[2]/div[6]/div/div/div[4]/div[2]/a</value>
+      <webElementGuid>19702479-8a8e-4cee-a04b-4f51bb11c94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/air-fryer/dwaf-3013-electric-cooking')])[2]</value>
+      <webElementGuid>146dc729-4c01-4b56-90c3-718411f3d03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a</value>
+      <webElementGuid>751f778e-75d1-4b1c-b775-2c308322a88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Review' and @href = '/air-fryer/dwaf-3013-electric-cooking' and (text() = '
+                        
+                            Review
+                    ' or . = '
+                        
+                            Review
+                    ')]</value>
+      <webElementGuid>d61c05fa-7180-4bde-90d2-a728e369fdfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>88b48af4-27dd-4922-b0d8-38643085bf04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='site-header']/div/div/div/div[3]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>eb470256-3f6b-4a85-b021-90de65d2b73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/medias/pk-logo-1.png?context=bWFzdGVyfHJvb3R8NDM5OXxpbWFnZS9wbmd8YURZMUwyaG1aQzh4TURVNE9EUTNNVGt4T0RZeU1pOXdheTFzYjJkdkxURXVjRzVufDk1MTZjMjRmZDU5YTgyMTA2YjdlYTNmNWQzYTY2NmY5NjdiOTI4ZGU1NGM5MjViMjliNGI5NDI3MjNjYTQyZjE</value>
+      <webElementGuid>34bf8c98-0d01-42ff-9ae2-0766121c9d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;header-top se-item&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-lg-2 dawlanceLogo col-center&quot;]/div[@class=&quot;logo&quot;]/a[1]/img[1]</value>
+      <webElementGuid>361e652a-c912-4d2e-9310-767950c9a206</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='site-header']/div/div/div/div[3]/div/a/img</value>
+      <webElementGuid>95af2ab2-95ac-42af-9f7e-b19a826ab79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>c0619f8b-6fa2-4d73-9ea1-26abe473c84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/medias/pk-logo-1.png?context=bWFzdGVyfHJvb3R8NDM5OXxpbWFnZS9wbmd8YURZMUwyaG1aQzh4TURVNE9EUTNNVGt4T0RZeU1pOXdheTFzYjJkdkxURXVjRzVufDk1MTZjMjRmZDU5YTgyMTA2YjdlYTNmNWQzYTY2NmY5NjdiOTI4ZGU1NGM5MjViMjliNGI5NDI3MjNjYTQyZjE']</value>
+      <webElementGuid>f583c328-5d4a-4e62-b429-0f87c99af01d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

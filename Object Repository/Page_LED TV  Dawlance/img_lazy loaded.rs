@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_lazy loaded</name>
+   <tag></tag>
+   <elementGuidId>7a3017ac-a854-4488-bd98-79d8ff006ac0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-content-1']/ul/li/a/figure/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.lazy.loaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>08f112ab-216c-4faf-8344-6a12bd6edffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy loaded</value>
+      <webElementGuid>01ea4051-5929-4c57-a3ca-00e0d33061d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-srcset</name>
+      <type>Main</type>
+      <value>/medias/250x250-smart-sub-1-.png?context=bWFzdGVyfGltYWdlc3w4MTcyN3xpbWFnZS9wbmd8YUdOakwyZzVaUzh4TVRNeE1qY3dOelV3TWpFeE1DOHlOVEI0TWpVd0lITnRZWEowSUhOMVlpQW9NU2t1Y0c1bnwxMTRhNTExNjgyYjc4MzI3NmYxNmJlMTc1MjQwMTYwZWNkNmVjZGU0YTkxOTg1NGFlMTEzZTIwODQwYjZmN2Y5 1x</value>
+      <webElementGuid>ffd4231d-685f-41b0-b42a-9678e678c8b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/medias/250x250-smart-sub-1-.png?context=bWFzdGVyfGltYWdlc3w4MTcyN3xpbWFnZS9wbmd8YUdOakwyZzVaUzh4TVRNeE1qY3dOelV3TWpFeE1DOHlOVEI0TWpVd0lITnRZWEowSUhOMVlpQW9NU2t1Y0c1bnwxMTRhNTExNjgyYjc4MzI3NmYxNmJlMTc1MjQwMTYwZWNkNmVjZGU0YTkxOTg1NGFlMTEzZTIwODQwYjZmN2Y5 1x</value>
+      <webElementGuid>968723dd-cd82-45cf-924b-e35033af23f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-was-processed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>25236257-08c2-4d7f-9a2f-bd67d638d7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-content-1&quot;)/ul[@class=&quot;ul-clear category-list&quot;]/li[1]/a[1]/figure[@class=&quot;responsive&quot;]/img[@class=&quot;lazy loaded&quot;]</value>
+      <webElementGuid>607f449b-2f93-485a-a128-7dc8dc43c9f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-content-1']/ul/li/a/figure/img</value>
+      <webElementGuid>6fe38873-e2a4-4242-9e88-933993289d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a/figure/img</value>
+      <webElementGuid>2e0f655d-2622-49b3-86ef-0acf6d88274b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

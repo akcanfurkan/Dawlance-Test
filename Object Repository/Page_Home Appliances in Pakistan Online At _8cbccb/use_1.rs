@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use_1</name>
+   <tag></tag>
+   <elementGuidId>06708a29-b730-4827-92bb-b356ee5dc1b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.icon.icon-close > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>bdcc58b9-6e1e-49ca-9822-d7367fac0e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>/_ui/shared/images/sprite-map.svg#close</value>
+      <webElementGuid>d1e8d653-cd6f-4a59-b3f5-34a738e1dae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notifiers&quot;)/div[@class=&quot;ntf-header&quot;]/button[@class=&quot;btn-close js-ntf-close-btn&quot;]/svg[@class=&quot;icon icon-close&quot;]/use[1]</value>
+      <webElementGuid>25fcd47c-50ac-4ef5-a4ca-67540893a262</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

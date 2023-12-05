@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Freezers</name>
+   <tag></tag>
+   <elementGuidId>4d358d68-65e9-49ca-93b6-60d92dfb3b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-content-1']/ul/li[2]/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > h2.isGlobalSiteTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>556fb2d1-6635-4996-89d0-cbe740359aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>isGlobalSiteTitle</value>
+      <webElementGuid>4b64bfee-2a9b-4d35-8a99-ef4ed33bf3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Freezers</value>
+      <webElementGuid>a111b23d-221e-4d56-865b-11fe5b72200a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-content-1&quot;)/ul[@class=&quot;ul-clear category-list&quot;]/li[2]/a[1]/h2[@class=&quot;isGlobalSiteTitle&quot;]</value>
+      <webElementGuid>640edb3b-d861-4b2e-b812-4b058b9bd3cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-content-1']/ul/li[2]/a/h2</value>
+      <webElementGuid>c88d518c-5b2b-4592-aa59-c682859aff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/h2</value>
+      <webElementGuid>1310b12f-ae52-44d2-b619-be2a7bc6fbe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '
+                                                Freezers' or . = '
+                                                Freezers')]</value>
+      <webElementGuid>95bda942-9939-43df-a5ff-77bb5fb024b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

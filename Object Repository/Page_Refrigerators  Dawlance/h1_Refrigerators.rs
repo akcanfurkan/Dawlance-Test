@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Refrigerators</name>
+   <tag></tag>
+   <elementGuidId>a97a347c-fd71-4319-926e-020751ca3b39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='site-main']/div/div/div[2]/div[4]/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pnl-left > h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>4c293661-085e-41d2-90fe-d69cb5c21f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Refrigerators</value>
+      <webElementGuid>9857c3bf-7aa4-46f6-93ea-7741ac4a12a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-main&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 productGridPage-page&quot;]/div[@class=&quot;top-panel container-max-1200&quot;]/div[@class=&quot;pnl-left&quot;]/h1[1]</value>
+      <webElementGuid>54077c64-7f02-4927-9dca-eb24b0a9c278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='site-main']/div/div/div[2]/div[4]/div/h1</value>
+      <webElementGuid>6e581e88-6723-4062-8fbd-7619288a29dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/h1</value>
+      <webElementGuid>1a17101d-ec65-4b82-8880-f0b3b4af22c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+            Refrigerators' or . = '
+            Refrigerators')]</value>
+      <webElementGuid>5e36335f-afd9-4da8-906d-ca12d2f12ad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
